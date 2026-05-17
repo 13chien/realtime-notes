@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# env files
+.env
+.env.local
+
+# Next.js
+.next/
+out/
+
+# Docker/Postgres
+postgres_data/
+
+# OS
+.DS_Store
