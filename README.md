@@ -244,13 +244,3 @@ This project was built to explore:
 - Distributed application architecture
 
 ---
-
-## Screenshots
-
-_Add screenshots and demo GIFs here._
-
----
-
-## License
-
-MIT License
