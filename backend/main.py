@@ -43,7 +43,7 @@ def serialize_note(note: models.Note):
 app.add_middleware(
     CORSMiddleware,allow_origins=[
     "http://localhost:3000",
-    "https://realtime-notes-abc.vercel.app",
+        "https://realtime-notes-eta.vercel.app",
 ],
     allow_credentials=True,
     allow_methods=["*"],
